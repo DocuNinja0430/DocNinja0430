@@ -12,9 +12,10 @@ I have worked with the following tools:
 * **Snag IT**
 * **FS Capture**
 * **JIRA**
-* **SAP**\
+* **SAP**
+
 I have good knowledge in **Markdown**, **XML**, and **HTML** languages.  
-I have done following certifications:
+I have done following certifications:  
 1. *MS-CIT*
 2. *Software Technical Documentation*
 3. *Technical Writing*
