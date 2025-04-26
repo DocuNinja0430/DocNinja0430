@@ -13,7 +13,6 @@ I have worked with the following tools:
 * **FS Capture**
 * **JIRA**
 * **SAP**
-* **Adobe**
 
 I have good knowledge in **Markdown**, **XML**, and **HTML** languages.  
 I have done following certifications:  
